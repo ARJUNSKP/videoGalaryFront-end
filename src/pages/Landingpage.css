@@ -1,0 +1,13 @@
+img{
+    height: 100%;
+}
+#labeldata{
+    display:'flex';
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+}
+#images{
+    background-image: url('https://i.postimg.cc/3xh6q7bw/Nature-on-screen.png');
+}

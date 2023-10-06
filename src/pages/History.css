@@ -1,0 +1,16 @@
+@media screen and (max-width:632px){
+    .tbd{
+        font-size: 10px;
+    }
+    .td{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:392px){
+    .tbd{
+        font-size: 8px;
+    }
+    .td{
+        font-size: 10px;
+    }
+}
